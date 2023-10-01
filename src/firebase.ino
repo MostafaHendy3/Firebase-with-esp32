@@ -5,8 +5,8 @@
 #include "addons/RTDBHelper.h"
 
 // Firebase configuration
-#define FIREBASE_AUTH "AIzaSyC1qJDOtTrNJvjfCoJBZe4X1_BLeZ0Qxl8"
-#define FIREBASE_DB_URL "https://esp32-96d7e-default-rtdb.europe-west1.firebasedatabase.app/"
+#define FIREBASE_AUTH "Your Firebase Auth Key"
+#define FIREBASE_DB_URL "Your Firebase Realtime Database URL"
 
 // WiFi configuration
 
